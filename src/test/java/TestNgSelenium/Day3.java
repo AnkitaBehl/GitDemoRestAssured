@@ -18,6 +18,8 @@ public class Day3 {
 	{
 		//Appium
 		System.out.println("Mobilelogincar");
+		System.out.println("Mobilelogincardata");
+		System.out.println("Mobilelogincartext");
 	}
 	
 	@Test(dataProvider ="getData")

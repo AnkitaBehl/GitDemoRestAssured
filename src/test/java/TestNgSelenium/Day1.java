@@ -30,6 +30,8 @@ public class Day1 {
   public void SecondTest()
   {
 	  System.out.println("Bye");
+	  System.out.println("how are you");
+	  System.out.println("love the data");
   }
 }
 
