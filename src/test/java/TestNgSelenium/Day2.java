@@ -9,6 +9,7 @@ public class Day2 {
 	public void preexecuted()
 	{
 		System.out.println("I will be execute first");
+		System.out.println("I will be execute first last");
 		
 	}
 	@Test(groups={"Smoke"})

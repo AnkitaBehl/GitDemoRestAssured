@@ -19,6 +19,10 @@ public class Day1 {
 		System.out.println("Hello1");
 		System.out.println("Hello2");
 		System.out.println("Hello45");
+		System.out.println("Hello55");
+		System.out.println("Hello65");
+		System.out.println("Hello75");
+		System.out.println("Hello85");
 		
 	}
 	@AfterSuite
