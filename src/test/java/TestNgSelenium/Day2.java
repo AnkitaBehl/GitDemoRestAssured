@@ -17,4 +17,10 @@ public class Day2 {
 	{
 		System.out.println("Good");
 	}
+	
+	@Test
+	public void ececuteData()
+	{
+		System.out.println("executeMobilelogincar");
+	}
 }
