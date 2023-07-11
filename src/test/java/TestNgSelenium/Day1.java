@@ -23,6 +23,7 @@ public class Day1 {
 		System.out.println("Hello65");
 		System.out.println("Hello75");
 		System.out.println("Hello85");
+		System.out.println("Hello95");
 		
 	}
 	@AfterSuite
