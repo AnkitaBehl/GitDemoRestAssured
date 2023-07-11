@@ -19,6 +19,8 @@ public class Day1 {
 		System.out.println("Hello1");
 		System.out.println("Hello2");
 		System.out.println("Hello45");
+		System.out.println("Hello55");
+		System.out.println("Hello65");
 		
 	}
 	@AfterSuite
@@ -32,6 +34,13 @@ public class Day1 {
 	  System.out.println("Bye");
 	  System.out.println("how are you");
 	  System.out.println("love the data");
+  }
+  @Test
+  public void ThirdTest()
+  {
+	  System.out.println("Great");
+	  System.out.println("how are you family");
+	  System.out.println("i created the data");
   }
 }
 
